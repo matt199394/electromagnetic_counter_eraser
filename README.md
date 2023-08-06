@@ -8,3 +8,4 @@ For the connections, follow the wiring diagram.
 Have fun!
 
 Matteo
+![electromagnetic_counter](https://github.com/matt199394/electromagnetic_counter_eraser/assets/65487240/b6e6ac69-8cba-4a01-b71d-4fd298d3c073)
