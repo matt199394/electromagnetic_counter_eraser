@@ -7,6 +7,9 @@ Aniway...
 set the initial value of the electromagnetic counter in order to save the value in the arduino EPROM then comment out the aforementioned line and upload the sketch again.
 To start the counter use a button, when the button is pressed again the counter stops and the current value is written to the EPROM.
 For the connections, follow the wiring diagram.
+
+You can see a short video on my youtube channel https://www.youtube.com/watch?v=MPNWV18nY3Y&ab_channel=Matteo
+
 Have fun!
 
 Matteo
